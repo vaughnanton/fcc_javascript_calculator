@@ -1,3 +1,3 @@
-A calculator powered by JavaScript made for CodeCamp's "Advanced Front End" projects.
+A web based calculator powered by JavaScript
 
-The app can be seen at the following links: https://codepen.io/vaughnanton/pen/vmGpKq ||| https://vaughnanton.github.io/fcc_javascript_calculator/
+Use the demo on [codepen](https://codepen.io/vaughnanton/pen/vmGpKq) or [github pages](https://vaughnanton.github.io/fcc_javascript_calculator/).
